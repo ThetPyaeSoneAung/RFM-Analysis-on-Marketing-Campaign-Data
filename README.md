@@ -1,6 +1,6 @@
 # RFM-Analysis-on-Marketing-Campaign-Data
 
-		This dashboard provides the marketing campaign data of 2,236 customers of Marketing Data, including customer profiles, product preferences, campaign successes/failures, RFM analysis and channel performance of 8 countries. As the market analyst, the objective is to find the customer segments evaluate the effectiveness of different promotional strategies, and develop data-driven recommendations for future targeted marketing campaigns. The insights derived from this analysis will guide the strategic decision for customer engagement and driving revenue growth.
+This dashboard provides the marketing campaign data of 2,236 customers of Marketing Data, including customer profiles, product preferences, campaign successes/failures, RFM analysis and channel performance of 8 countries. As the market analyst, the objective is to find the customer segments evaluate the effectiveness of different promotional strategies, and develop data-driven recommendations for future targeted marketing campaigns. The insights derived from this analysis will guide the strategic decision for customer engagement and driving revenue growth.
 
 Recommended Analysis
 
